@@ -1,0 +1,16 @@
+www.google-analytics.com
+analytics.plex.tv
+ssl.google-analytics.com
+otn.samsungcloudcdn.com
+lcprd1.samsungcloudsolution.net
+wpad.cn.local
+cgsqw001.cn.local
+proxy.cn.local
+saeah001.cn.local
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+logging.dhg.myharmony.com
+o147989.ingest.sentry.io
+nvidia.tt.omtrdc.net
+firebase-settings.crashlytics.com
+settings-win.data.microsoft.com

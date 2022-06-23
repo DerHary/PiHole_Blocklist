@@ -37,3 +37,4 @@ watson.telemetry.microsoft.com
 wpad.cn.local
 www.google-analytics.com
 z.moatads.com
+data.mistat.intl.xiaomi.com

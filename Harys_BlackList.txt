@@ -2,8 +2,11 @@ activity.windows.com
 analytics.plex.tv
 api.setting.intl.miui.com
 app-measurement.com
+audible.sc.omtrdc.net
 cgsqw001.cn.local
 crashlyticsreports-pa.googleapis.com
+data.mistat.intl.xiaomi.com
+data1.sparkasse.at
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 e.crashlytics.com
@@ -17,6 +20,7 @@ log-ingestion.samsungacr.com
 logging.dhg.myharmony.com
 mobile-collector.newrelic.com
 mobile.pipe.aria.microsoft.com
+nexusrules.officeapps.live.com
 nvidia.tt.omtrdc.net
 o147989.ingest.sentry.io
 otn.samsungcloudcdn.com
@@ -36,5 +40,5 @@ v10.events.data.microsoft.com
 watson.telemetry.microsoft.com
 wpad.cn.local
 www.google-analytics.com
+www.usenix.org.uk
 z.moatads.com
-data.mistat.intl.xiaomi.com

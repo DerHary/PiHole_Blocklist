@@ -1,5 +1,7 @@
 activity.windows.com
+akt.audiencemanager.de
 analytics.plex.tv
+api.mixpanel.com
 api.setting.intl.miui.com
 app-measurement.com
 audible.sc.omtrdc.net
@@ -9,7 +11,9 @@ data.mistat.intl.xiaomi.com
 data1.sparkasse.at
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+dsp.adfarm1.adition.com
 e.crashlytics.com
+erstegroupitinternat.tt.omtrdc.net
 firebase-settings.crashlytics.com
 flash.sec.intl.miui.com
 g.live.com
@@ -35,10 +39,12 @@ sb.scorecardresearch.com
 settings-win.data.microsoft.com
 settings.crashlytics.com
 ssl.google-analytics.com
+static.doubleclick.net
 umwatson.events.data.microsoft.com
 v10.events.data.microsoft.com
 watson.telemetry.microsoft.com
 wpad.cn.local
 www.google-analytics.com
+www.googletagmanager.com
 www.usenix.org.uk
 z.moatads.com

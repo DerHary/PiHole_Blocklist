@@ -36,9 +36,11 @@ reports.crashlytics.com
 s.amazon-adsystem.com
 saeah001.cn.local
 sb.scorecardresearch.com
+script-at.iocnt.net
 settings-win.data.microsoft.com
 settings.crashlytics.com
 ssl.google-analytics.com
+static.cleverpush.com
 static.doubleclick.net
 umwatson.events.data.microsoft.com
 v10.events.data.microsoft.com

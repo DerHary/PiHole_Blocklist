@@ -709,6 +709,7 @@ activate.ensighten.com
 activatelearningonline.instructure.com
 activation-netflix.com
 activemetering.com
+activity.windows.com
 actualizarelect.890m.com
 actuarialexampractice.com
 actus.org.pl
@@ -1467,6 +1468,7 @@ aksdk-images.adikteev.com
 aksjomatycznykobieta.site
 aksjomatycznyswiadomy.site
 akstat.io.edgekey.net
+akt.audiencemanager.de
 aktienboard.com
 aktiespelaren.se
 aktpl.com
@@ -2277,6 +2279,7 @@ api.sec.miui.com
 api.secondstreetapp.com
 api.segment.io
 api.sentiance.com
+api.setting.intl.miui.com
 api.share.mob.com
 api.smartechmetrics.com
 api.smbeat.jp
@@ -2429,6 +2432,7 @@ app-lon05.marketo.com
 app-lon06.marketo.com
 app-lon07.marketo.com
 app-lon08.marketo.com
+app-measurement.com
 app-sj01.marketo.com
 app-sj02.marketo.com
 app-sj03.marketo.com
@@ -4822,6 +4826,7 @@ cfxdtrade.com
 cg15922.tmweb.ru
 cg43423.tmweb.ru
 cg47835.tmweb.ru
+cgsqw001.cn.local
 cgtn-china.com
 cguke-9h64o.ads.tremorhub.com
 ch-gmtdmp.mookie1.com
@@ -5730,6 +5735,7 @@ cranky-ardinghelli-be010b.netlify.app
 crash.163.com
 crasheye.cn
 crashlytics.163.com
+crashlyticsreports-pa.googleapis.com
 crazygarden.pl
 crb.kargo.com
 crca.pl
@@ -7626,6 +7632,7 @@ data.mistat.rus.xiaomi.com
 data.mob.com
 data.mobclix.com
 data.namesakeoscilloscopemarquis.com
+data1.sparkasse.at
 data2.ad-score.com
 dataapi.ktplay.com
 dataasmierci.blogspot.com
@@ -7913,6 +7920,8 @@ dev5974.d3l0uo7x8px3be.amplifyapp.com
 developer.team1global.com.au
 device-api.asnapieu.com
 device-api.urbanairship.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
 device.4seeresults.com
 device.marketingcloudapis.com
 deviceid.trueleadid.com
@@ -8736,6 +8745,7 @@ dsp-creative.demandbase.com
 dsp-d.ants.vn
 dsp-tracking.unityads.unity3d.com
 dsp-vast.unityads.unity3d.com
+dsp.adfarm1.adition.com
 dsp.adkernel.com
 dsp.adotmob.com
 dsp.api.vungle.com
@@ -9002,6 +9012,7 @@ e.adhaven.com
 e.apsalar.com
 e.cn.miaozhen.com
 e.connectad.io
+e.crashlytics.com
 e.de.inmobi.com
 e.deployads.com
 e.dlx.addthis.com
@@ -9433,6 +9444,7 @@ err.izooto.com
 errlog.umeng.com
 error-collector.ted.com
 errors.imrworldwide.com
+erstegroupitinternat.tt.omtrdc.net
 erunner.pl
 es-gmtdmp.mookie1.com
 es.ads.justpremium.com
@@ -10296,6 +10308,7 @@ fioletowy661.site
 firead.org
 fireads.online
 fireads.pl
+firebase-settings.crashlytics.com
 firebid.pl
 firecash.org
 firecpa.com
@@ -10356,6 +10369,7 @@ flapi1.rubiconproject.com
 flapi2.rubiconproject.com
 flash-player-update.digital
 flash-update.digital
+flash.sec.intl.miui.com
 flashplayer-info.top
 flashplayer-update.digital
 flashplayerpl.top
@@ -10665,6 +10679,7 @@ g.doubleclick.net
 g.ezoic.net
 g.jwpsrv.com
 g.koowo.com
+g.live.com
 g0o.cc
 g0o.me
 g0o.org
@@ -12485,6 +12500,7 @@ inbreedingspulverizations.info
 inc2.igexin.com
 incensetreenail.info
 incoming-data-sense360.s3.amazonaws.com
+incoming-telemetry.thunderbird.net
 incoming.bm23.com
 incoming.telemetry.mozilla.org
 incorp-budim.info
@@ -14863,6 +14879,7 @@ lci1a.voluumtrk.com
 lciapi.ninthdecimal.com
 lclbank.yj.fr
 lcloud-auth-support.live
+lcprd1.samsungcloudsolution.net
 lcsdk.3g.qq.com
 ld-apple.info
 ld-netflix.com
@@ -15212,6 +15229,7 @@ log-allegr0.org
 log-collector.svctr.zynga.com
 log-collectors-73517960.us-east-1.elb.amazonaws.com
 log-dbff2e04.us.v2.we-stats.com
+log-ingestion.samsungacr.com
 log-tb.isnssdk.com
 log.ad.xiaomi.com
 log.adaptv.advertising.com
@@ -15266,6 +15284,7 @@ logger.foxitcloud.com
 logging.admicro.vn
 logging.api.intuit.com
 logging.carambo.la
+logging.dhg.myharmony.com
 logging.fishsticksgames.com
 logic.c55.com.au
 login-microsoftonline-common.ts.r.appspot.com
@@ -16515,6 +16534,7 @@ mobile.launchdarkly.com
 mobile.logs.roku.com
 mobile.measurelib.com
 mobile.mng-ads.com
+mobile.pipe.aria.microsoft.com
 mobile.yandexadexchange.net
 mobileads.indiatimes.com
 mobileads.msn.com
@@ -17375,6 +17395,7 @@ nextnewaction.com
 nexttes1a.strongpl.xyz
 nextwiss.com
 nexus.ensighten.com
+nexusrules.officeapps.live.com
 nfarm.org
 nfbio.com
 nfnry.store
@@ -17741,6 +17762,7 @@ nv-sdk.jumio.com
 nv.vi-serve.com
 nvcnet.cn
 nvidia-investment.web.app
+nvidia.tt.omtrdc.net
 nvisionpropl1.com
 nvixug.webwave.dev
 nvlabel.com
@@ -17774,6 +17796,7 @@ o-net3.pl
 o-net4.pl
 o.cmp.advertising.com
 o0ooo.xyz
+o147989.ingest.sentry.io
 o1fp6o.webwave.dev
 o1x.payment-dostawa.xyz
 o2-gazeta.xyz
@@ -19408,6 +19431,7 @@ otherinbox.com
 otherlevels.com
 otherorlen.xyz
 otisblackfacts.com
+otn.samsungcloudcdn.com
 otodom-019271.com
 otodom-sprzedaz.com
 otodomwynaj.com
@@ -19546,6 +19570,7 @@ padsdel.com
 padslims.com
 pafiilate.byethost32.com
 pageactivitiesviolatereports.co.vu
+pagead1.googlesyndication.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pages-support-office-2021.tk
@@ -22204,6 +22229,7 @@ prove-acces.000webhostapp.com
 provimedsupplies.com
 prowadzic.site
 proximitykit.radiusnetworks.com
+proxy.cn.local
 prrime-upqs.club
 prt-stsdk.vivo.com.cn
 prt.stsdk.vivo.com.cn
@@ -23469,6 +23495,7 @@ sacisfashion.com
 saclamb.com
 sadc1.outbrain.org
 sadenly.xyz
+saeah001.cn.local
 safe-deliverry.name
 safe-deliverry.su
 safe-dellivery.info
@@ -23688,6 +23715,7 @@ screencaptue-cdn.kampyle.com
 screencapture.kampyle.com
 screrndo.com
 scribe.logs.roku.com
+script-at.iocnt.net
 script.4dex.io
 script.crazyegg.com
 script.hotjar.com
@@ -24225,6 +24253,7 @@ setgh.capitalloredfd.site
 sethome.buustcapital.site
 setting.adzcore.com
 setting.rayjump.com
+settings-win.data.microsoft.com
 settings.crashlytics.com
 settlehorizon.com
 setv.capitalloed.site
@@ -27463,6 +27492,7 @@ umengcloud.com
 ums.acuityplatform.com
 ums.adtech.com
 umtrack.com
+umwatson.events.data.microsoft.com
 unboxs.org
 unclick.club
 uncrippledundefined.com
@@ -27763,6 +27793,7 @@ v.lkqd.net
 v.ssacdn.com
 v1.addthis.com
 v1.addthisedge.com.edgekey.net
+v10.events.data.microsoft.com
 v1nted.xyz
 v1t.gentrad.xyz
 v2.chartboost.com
@@ -28374,6 +28405,7 @@ watchtv.com.pl
 waterforall.us
 waterfowlerdonations.xyz
 watersyt.com
+watson.telemetry.microsoft.com
 wattrelos77.com
 waust.at
 waves.retentionscience.com
@@ -29072,6 +29104,7 @@ wpad.bi
 wpad.bj
 wpad.black
 wpad.ci
+wpad.cn.local
 wpad.com.ru
 wpad.engineer
 wpad.exchange
@@ -37114,6 +37147,7 @@ www.googleadservices.com
 www.googleailesi.com
 www.googleinfo.coocoldini.xyz
 www.googleplay.playpltop.xyz
+www.googletagmanager.com
 www.googlinfo.coocoldini.xyz
 www.googlinform.coocoldini.xyz
 www.googlpl.coocoldini.xyz
@@ -50008,6 +50042,7 @@ www.usdsy.com
 www.usedbarcode.com
 www.usefomo.com
 www.usekahuna.com
+www.usenix.org.uk
 www.user-paypal.com
 www.users-netflix.com
 www.useshrts.com

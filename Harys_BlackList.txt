@@ -50,3 +50,8 @@ www.google-analytics.com
 www.googletagmanager.com
 www.usenix.org.uk
 z.moatads.com
+telemetry.acronis.com
+az-cdn.aerserv.com
+httpdns-euex-push.heytapmobile.com
+6558503.fls.doubleclick.net
+code.etracker.com

@@ -10,3 +10,4 @@ Add as URL https://raw.githubusercontent.com/DerHary/PiHole_Blocklist/main/Harys
 Click Add.
 After that go to Tools > Update Gravity > Click Update.
 This will update all the Lists you have in PiHole, including mine.
+It can also be used in AdGuard

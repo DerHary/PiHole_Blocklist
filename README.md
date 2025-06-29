@@ -1,6 +1,8 @@
 # PiHole_Blocklist
 My Custom Blocklist for PiHole
 
+NOTE: This Repo is no longer updated - The Project is replaced by a new DNSBL - switch to https://dbl.aschi.at/ for a community List of blocked Domains
+
 I decided to share my custom Domain Blacklist via Github.
 Updates will follow in irregular Intervals, when i check the Logs of my PiHole and diverse Domains that are resolved.
 
